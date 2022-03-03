@@ -5,3 +5,6 @@
 
 ## Mais práticas CSS e HTML, vi um tutorial no youtube e apliquei personalizando com vídeo diferente, projeto para praticar e tentar entender alguns conceitos que foram aplicados.
 #
+<div align="center" >
+  <img height = "400em" src="https://github.com/LeandroDukievicz/videoCube/blob/main/ezgif.com-gif-maker.gif"/>
+  </div>
